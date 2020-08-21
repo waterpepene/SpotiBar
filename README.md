@@ -1,5 +1,6 @@
 ## SpotiBar
- 
+# A more minimalistic way to control Spotify.
+
 ![SpotiBar Image](https://i.imgur.com/KdGz7hF.png)
 
 This program, built mainly with Spotipy and PySimpleGUIQt provides an easier way to control songs on Spotify.
